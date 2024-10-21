@@ -36,7 +36,7 @@ Here are some of the projects I have worked on:
 ### 🏆 Featured Projects
 
 - **[Project 1: My Awesome App](https://yourprojectlink.com)**  
-  <img src="https://drive.google.com/file/d/1YtEM24E2lP6s8PtcRIIu7UfSYOsYBnR6/view?usp=sharing" alt="Project 1 Screenshot" width="300"/>  
+  <img src="https://drive.google.com/file/d/1YtEM24E2lP6s8PtcRIIu7UfSYOsYBnR6/view?usp=sharing" alt="Project 1 Screenshot" width="900"/>  
   A cutting-edge mobile app developed using Flutter and Firebase. Features include real-time chat, custom animations, and in-app purchases.
 
 - **[Project 2: Social Media App](https://yourprojectlink.com)**  
