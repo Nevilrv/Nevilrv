@@ -74,6 +74,13 @@ Hello! I'm **Nevil Vaghasiya**, a dedicated mobile application developer with ov
 ## 🚀 Languages and Tools:
 
 <p align="left">
+  <a href="https://dart.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/dart.png"/> </a>
+  <a href="https://www.oracle.com/java/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/> </a>
+  <a href="https://kotlinlang.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/kotlin.png"/> </a>
+  <a href="https://developer.apple.com/swift/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/swift.png"/> </a>
+  <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png"/> </a>
+  <a href="https://developer.android.com/studio" target="_blank"> <img src="https://img.icons8.com/color/48/000000/android-studio--v3.png"/> </a>
+  <a href="https://developer.apple.com/xcode/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/xcode.png"/> </a>
   <a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> </a>
   <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
   <a href="https://nodejs.org/en/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a>
@@ -81,7 +88,6 @@ Hello! I'm **Nevil Vaghasiya**, a dedicated mobile application developer with ov
   <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>
   <a href="https://devdocs.io/c/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-programming.png"/> </a>
   <a href="https://docs.python.org/3/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python--v1.png"/> </a>
-  <a href="https://docs.oracle.com/en/java/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/> </a>
   <a href="https://dev.mysql.com/doc/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> </a>
   <a href="https://getbootstrap.com/docs/5.1/getting-started/introduction/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
@@ -92,8 +98,8 @@ Hello! I'm **Nevil Vaghasiya**, a dedicated mobile application developer with ov
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=milandudhat&show_icons=true&theme=dark&locale=en&layout=compact" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=milandudhat&show_icons=true&theme=dark&title_color=5dfd70&text_color=ffffff&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nevilrv&show_icons=true&theme=dark&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nevilrv&show_icons=true&theme=dark&title_color=5dfd70&text_color=ffffff&locale=en" alt="GitHub Stats" />
 </p>
 
 ---
