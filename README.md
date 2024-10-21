@@ -5,7 +5,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-<h1 align="center">Hi, I'm Nevil Vaghasiya</h1>
+<h1 align="center">Hi, I'm Nevil</h1>
 <h3 align="center">Flutter | FlutterFlow | Dart | Swift | Kotlin | AI Enthusiast</h3>
 
 <div align="center">
