@@ -95,19 +95,5 @@ Hello! I'm **Nevil Vaghasiya**, a dedicated mobile application developer with ov
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nevilrv&show_icons=true&theme=dark&locale=en&layout=compact" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=nevilrv&show_icons=true&theme=dark&title_color=5dfd70&text_color=ffffff&locale=en" alt="GitHub Stats" />
 
-</p>
-
----
-
-## 🌐 Connect with Me:
-<p align="left">
-  <a href="https://www.linkedin.com/in/milan-dudhat-b45166216/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-  <a href="https://twitter.com/_milndudhat_"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-  <a href="https://www.instagram.com/_milan.dudhat_/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-</p>
