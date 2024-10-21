@@ -18,7 +18,7 @@
 
 ## 🙋‍♂️ About Me
 
-Hello! I'm **Nevil Vaghasiya**, a dedicated mobile application developer with over 5 years of experience in Flutter development. I have worked on several Android and iOS apps using Flutter, continually honing my skills and focusing on creating high-quality applications. My goal is to always deliver excellent work on time, ensuring client satisfaction.
+Hello! I'm **Nevil**, a dedicated mobile application developer with over 5 years of experience in Flutter development. I have worked on several Android and iOS apps using Flutter, continually honing my skills and focusing on creating high-quality applications. My goal is to always deliver excellent work on time, ensuring client satisfaction.
 
 ### 🚀 Brief Summary
 - **Experience**: Over 5+ years in mobile application development.
