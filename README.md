@@ -27,6 +27,32 @@ Hello! I'm **Nevil**, a dedicated mobile application developer with over 5 years
 - **UI Expertise**: Skilled in delivering pixel-perfect and complex UIs efficiently.
 - **Soft Skills**: Strong organizational, problem-solving, and communication skills.
 
+---
+
+## 📂 Portfolio
+
+Here are some of the projects I have worked on:
+
+### 🏆 Featured Projects
+
+- **[Project 1: My Awesome App](https://yourprojectlink.com)**  
+  <img src="https://drive.google.com/file/d/1YtEM24E2lP6s8PtcRIIu7UfSYOsYBnR6/view?usp=sharing" alt="Project 1 Screenshot" width="300"/>  
+  A cutting-edge mobile app developed using Flutter and Firebase. Features include real-time chat, custom animations, and in-app purchases.
+
+- **[Project 2: Social Media App](https://yourprojectlink.com)**  
+  <img src="https://yourimageurl.com/project2-image.png" alt="Project 2 Screenshot" width="300"/>  
+  A Flutter-based social media platform with user authentication, live feed, and video streaming using Agora.
+
+- **[Project 3: E-Commerce App](https://yourprojectlink.com)**  
+  <img src="https://yourimageurl.com/project3-image.png" alt="Project 3 Screenshot" width="300"/>  
+  A full-featured e-commerce app built with Flutter and integrated with Stripe for payment processing.
+
+- **[Project 4: AI-powered Photo Editor](https://yourprojectlink.com)**  
+  <img src="https://yourimageurl.com/project4-image.png" alt="Project 4 Screenshot" width="300"/>  
+  A photo editing app with AI features like automatic background removal, image enhancement using TensorFlow Lite.
+
+---
+
 ### 💻 Front-End
 - **Technologies**: Flutter, FlutterFlow, Flutter Web, Flutter Desktop (Windows-Mac)
 
