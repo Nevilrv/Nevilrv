@@ -18,10 +18,10 @@
 
 ## 🙋‍♂️ About Me
 
-Hello! I'm **Nevil**, a dedicated mobile application developer with over 5 years of experience in Flutter development. I have worked on several Android and iOS apps using Flutter, continually honing my skills and focusing on creating high-quality applications. My goal is to always deliver excellent work on time, ensuring client satisfaction.
+Hello! I'm **Nevil**, a dedicated mobile application developer with over 6+ years of experience in Flutter development. I have worked on several Android and iOS apps using Flutter, continually honing my skills and focusing on creating high-quality applications. My goal is to always deliver excellent work on time, ensuring client satisfaction.
 
 ### 🚀 Brief Summary
-- **Experience**: Over 5+ years in mobile application development.
+- **Experience**: Over 6+ years in mobile application development.
 - **Learning Enthusiast**: Always exploring new programming languages, technologies, and methodologies.
 - **Architecture-Oriented**: Passionate about scalable and well-structured solutions.
 - **UI Expertise**: Skilled in delivering pixel-perfect and complex UIs efficiently.
@@ -32,7 +32,7 @@ Hello! I'm **Nevil**, a dedicated mobile application developer with over 5 years
 - **Technologies**: Flutter, FlutterFlow, Flutter Web, Flutter Desktop (Windows-Mac)
 
 ### ⚙️ State Management:
-- Bloc, GetX, Provider, Riverpod
+- Bloc, GetX, Provider, Riverpod ,Redux
 
 ### 🛠️ Back-End:
 - Dart, PHP (CodeIgniter, Laravel), NodeJS
