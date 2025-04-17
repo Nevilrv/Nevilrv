@@ -34,6 +34,9 @@ Hello! I'm **Nevil**, a dedicated mobile application developer with over 6+ year
 ### ⚙️ State Management:
 - Bloc, GetX, Provider, Riverpod ,Redux
 
+### 🧱 Code Architecture Patterns
+- Clean Architecture, MVC (Model-View-Controller), MVP (Model-View-Presenter), MVVM (Model-View-ViewModel)
+
 ### 🛠️ Back-End:
 - Dart, PHP (CodeIgniter, Laravel), NodeJS
 
