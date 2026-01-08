@@ -41,13 +41,13 @@ Hello! I'm **Nevil**, a dedicated mobile application developer with over 6+ year
 - Dart, PHP (CodeIgniter, Laravel), NodeJS
 
 ### 🗄️ Databases:
-- Firebase, MySQL, MongoDB, Hive
+- Firebase, Supabase, MySQL, MongoDB, Hive
 
 ### 🌐 APIs:
 - Maps, Firebase, Google, GCP Services, Instagram, Twitter, GitHub, and other Social Media APIs
 
 ### 💳 Payment Integration:
-- Stripe, PayPal, Razorpay, Easebuzz, Paytm, In-App Purchases (IAP)
+- Stripe, PayPal, Razorpay, Easebuzz, Paytm, In-App Purchases (IAP),  RevenueCat
 
 ### 🔥 Firebase:
 - Firebase App Distribution, Storage, Authentication, Push Notifications, App Check, Cloud Messaging, Remote Config, Crashlytics, Firebase ML, Dynamic Links, In-App Messaging, AdMob
